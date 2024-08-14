@@ -1,3 +1,5 @@
-# ProjectAdivinha
-Projeto em JSF, JPA, Primefaces.
-Projeto inicial realizado para fins Acadêmicos 
+# ProjectGuess
+Projeto de Adivinhar numeração
+
+Linguagem: JSF, JPA, Primefaces.
+
